@@ -1,0 +1,1 @@
+{"fortune":"Atomic compare and exchange.  These sequences are not actually atomic [⋯].  However, they are very close to atomic, [⋯] LinuxThreads has been using these sequences for many years."}

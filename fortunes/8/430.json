@@ -1,0 +1,1 @@
+{"fortune":"I claim that Mach people (and apparently FreeBSD) are incompetent idiots. Playing games with VM is bad. memory copies are _also_ bad, but quite frankly, memory copies often have _less_ downside than VM games, and bigger caches will only continue to drive that point home. - Linus Torvalds on vmsplice() versus COW"}

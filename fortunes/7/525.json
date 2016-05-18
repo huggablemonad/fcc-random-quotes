@@ -1,0 +1,1 @@
+{"fortune":"msgPtr->EMM_RSP_OLC_ACK_FWD_H2250LCACKP.bit_mask &= ~EM_H2250LCAP_dynamicRTPPayloadType_present;"}

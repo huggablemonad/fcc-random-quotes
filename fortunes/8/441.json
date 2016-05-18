@@ -1,0 +1,1 @@
+{"fortune":"Your IP address is: <? echo getenv('REMOTE_ADDR'); ?>. By continuing to browse this website, you agree to the following terms."}

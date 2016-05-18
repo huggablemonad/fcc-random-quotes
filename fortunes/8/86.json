@@ -1,0 +1,1 @@
+{"fortune":"    static unsigned int minSz = sizeof(uslOBJECT_T);//calculate only the once!"}

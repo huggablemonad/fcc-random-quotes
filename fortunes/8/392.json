@@ -1,0 +1,1 @@
+{"fortune":"#define v6addrcurr(lifc) (( (lifc)->origint + (lifc)->preflt >= (NOW/10^3) ) || ( (lifc)->preflt == 0xffffffff ))"}

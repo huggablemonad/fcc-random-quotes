@@ -1,0 +1,1 @@
+{"fortune":"The implementation shall behave as if no library function calls the rand function."}

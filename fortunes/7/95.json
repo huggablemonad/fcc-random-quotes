@@ -1,0 +1,1 @@
+{"fortune":"(accom): tasks.c, line 7576: accom: Internal:   Out of tree space.  Cannot continue compilation.  The current size was specified as or defaulted to -Wf,-XNh1000 giving a table size of 1000.  Recompile giving a command line option to increase the table size.  Example option giving a larger table: -Wf,-XNh2000"}

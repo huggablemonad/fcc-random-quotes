@@ -1,0 +1,1 @@
+{"fortune":"/etc/bash.bashrc:\talias unmount='echo \"Error: Try the command: umount\" 1>&2; false'"}

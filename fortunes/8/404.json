@@ -1,0 +1,1 @@
+{"fortune":"process `sysctl' is using deprecated sysctl (syscall) net.ipv6.neigh.eth1.base_reachable_time; Use net.ipv6.neigh.eth1.base_reachable_time_ms instead."}
